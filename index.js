@@ -7,3 +7,5 @@ mark1.computeScore();
 
 const mark2 = new marks("SST","Angella",40)
 mark2.computeScore();
+
+module.exports = mark1;
