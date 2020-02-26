@@ -9,3 +9,5 @@ test('testing if the mark is a number', ()=>{
 test('testing if the mark is A', ()=>{
     expect(mark.computeScore()).toBe ("A")
 })
+
+
